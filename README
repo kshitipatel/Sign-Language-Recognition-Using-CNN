@@ -1,4 +1,4 @@
-** CONVOLUTION NEURAL NETWORK **
+# CONVOLUTION NEURAL NETWORK
 Accuracy: 99.83%
 Dataset: https://www.kaggle.com/datamunge/sign-language-mnist
 Method used: Convolution Neural Network
